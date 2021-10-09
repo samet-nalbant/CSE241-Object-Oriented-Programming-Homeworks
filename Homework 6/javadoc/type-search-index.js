@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"arraylist"},{"p":"<Unnamed>","l":"Collection"},{"p":"<Unnamed>","l":"hashset"},{"p":"<Unnamed>","l":"Iterator"},{"p":"<Unnamed>","l":"linkedlist"},{"p":"<Unnamed>","l":"list"},{"p":"<Unnamed>","l":"queue"},{"p":"<Unnamed>","l":"set"},{"p":"<Unnamed>","l":"test"}]
